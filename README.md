@@ -8,8 +8,6 @@ Hello there, I'm Matt, a creator who makes games, websites, and visual media for
 
 ### ⚙ Languages & Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
 
 <br>
 
