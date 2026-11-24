@@ -1,6 +1,5 @@
 # 🖥 matt-ctrl-alt-del
 
-
 <img width="1200" height="225" alt="Github Games Banner (1)" src="https://github.com/user-attachments/assets/a2036951-8c0c-4beb-a0ba-7067e845b2c4" />
 
 # 💫 About Me:
@@ -10,6 +9,7 @@ Hello! I'm Matthew (Matt) — I like to tinker, fix things, and make games. 
 **Volunteering & Values:** Repair Café Silicon Valley volunteer, BOINC contributor, and passionate about open source & sustainability.
 **Hobbies:** Photography • Reading • Game Dev • Writing • Collecting CDs<br>
 
+<img width="1200" height="225" alt="Github Games Banner2" src="https://github.com/user-attachments/assets/da81b997-4309-4194-9bdd-d4055a55163d" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matt_not_found) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCi4n1OxOm4kz5biGl0-DseA) 
@@ -28,6 +28,3 @@ Hello! I'm Matthew (Matt) — I like to tinker, fix things, and make games. 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matt-ctrl-alt-del/matt-ctrl-alt-del/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/matt-ctrl-alt-del/matt-ctrl-alt-del/output/github-snake.svg" />
 </picture>
-
-
-<img width="1200" height="225" alt="Github Games Banner2" src="https://github.com/user-attachments/assets/a3081791-cfac-4921-ae8f-2a523c784a6e" />
