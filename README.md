@@ -28,3 +28,6 @@ Hello! I'm Matthew (Matt) — I like to tinker, fix things, and make games. 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matt-ctrl-alt-del/matt-ctrl-alt-del/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/matt-ctrl-alt-del/matt-ctrl-alt-del/output/github-snake.svg" />
 </picture>
+
+
+<img width="1200" height="225" alt="Github Games Banner2" src="https://github.com/user-attachments/assets/a3081791-cfac-4921-ae8f-2a523c784a6e" />
